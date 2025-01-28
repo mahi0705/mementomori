@@ -1,4 +1,3 @@
-# mementomori
-this is my first lab
-<br>
-created my repo
+# HotelBookingSystem
+
+Hotel Booking System 101 on Java without any frameworks.
